@@ -19,8 +19,8 @@ const primary = [
 
 const StartHereMenuItems = [
     <Navigation.MenuLink
-      key="juniorDev"
-      label="Protege"
+      key="protegeDev"
+      label="Protege Developer"
       url="/protege"
     />,
     <Navigation.MenuLink

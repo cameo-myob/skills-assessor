@@ -1,13 +1,20 @@
 import React from 'react';
 import './App.css';
-import Navigation from './components/nav/Navigation'
-import Main from './components/Main'
+import { BrowserRouter, Route } from 'react-router-dom';
+import Navigation from './components/nav/Navigation';
+import Main from './components/Main';
+import Protege from './components/Protege';
+import HowItWorks from './components/HowItWorks';
 
 function App() {
   return (
     <div className="App">
-      <Navigation/>
-      <Main/>
+      <BrowserRouter>
+        <Navigation/>
+        <Route path="/" exact component={Main} />
+        <Route path="/howItWorks" component={HowItWorks} />
+        <Route path="/protege" component={Protege} />
+      </BrowserRouter>
     </div>
   );
 }

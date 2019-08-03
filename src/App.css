@@ -31,3 +31,10 @@
     transform: rotate(360deg);
   }
 }
+
+.roleButtonRow {
+  width: 50%;
+  margin: 0 25%;
+  display: flex;
+  justify-content: space-around;
+}
