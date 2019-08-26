@@ -1,0 +1,237 @@
+[
+    {
+        "id": "1",
+        "category": "Technical Skills",
+        "subcategory": "Level One",
+        "title": "Git Basics",
+        "description": "Centralised vs Distributed Version Control, Branching, Merging, Rebasing, Pull Requests"
+    },{
+        "id": "2",
+        "category": "Technical Skills",
+        "subcategory": "Level One",
+        "title": "Keyboard Confidence",
+        "description": "Touch Typing, Words Per Minute"
+    },{
+        "id": "3",
+        "category": "Technical Skills",
+        "subcategory": "Level One",
+        "title": "Editor Confidence",
+        "description": "Keyboard Shortcuts, Refactoring Tools"
+    },{
+        "id": "4",
+        "category": "Technical Skills",
+        "subcategory": "Level One",
+        "title": "Unix Command Line",
+        "description": "File Manipulation, Pipes, Permissions, Bash Scripting"
+    },{
+        "id": "5",
+        "category": "Technical Skills",
+        "subcategory": "Level One",
+        "title": "Pair Programming",
+        "description": "Driver and Navigator, Ping Pong"
+    },{
+        "id": "6",
+        "category": "Technical Skills",
+        "subcategory": "Level Two",
+        "title": "Test Driven Development",
+        "description": "Red Green Refactor, Inside Out vs Outside In"
+    },{
+        "id": "7",
+        "category": "Technical Skills",
+        "subcategory": "Level Two",
+        "title": "Strongly Typed Object Oriented Language",
+        "description": "Basics of Java, C#"
+    },{
+        "id": "8",
+        "category": "Technical Skills",
+        "subcategory": "Level Two",
+        "title": "Naming Things",
+        "description": "Importance of Naming, Domain Based Names, Ubiquitous Language"
+    },{
+        "id": "9",
+        "category": "Technical Skills",
+        "subcategory": "Level Two",
+        "title": "Test Doubles",
+        "description": "Stubs, Mocks, Fakes"
+    },{
+        "id": "10",
+        "category": "Technical Skills",
+        "subcategory": "Level Two",
+        "title": "SOLID Principles",
+        "description": "Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion"
+    },{
+        "id": "11",
+        "category": "Technical Skills",
+        "subcategory": "Level Two",
+        "title": "YAGNI",
+        "description": "You Aren't Gonna Need It, Unnecessary Added Functionality"
+    },{
+        "id": "12",
+        "category": "Technical Skills",
+        "subcategory": "Level Two",
+        "title": "STUPID Principles",
+        "description": "Singleton Pattern, Tight Coupling, Untestability, Premature Optimisation, Indescriptive Naming, Duplication"
+    },{
+        "id": "13",
+        "category": "Technical Skills",
+        "subcategory": "Level Two",
+        "title": "Object Composition",
+        "description": "Composition Over Inheritance"
+    },{
+        "id": "14",
+        "category": "Technical Skills",
+        "subcategory": "Level Three",
+        "title": "AWS Basics",
+        "description": "S3 Buckets, EC2 Instances, RDS Databases, Route 53, VPC, CloudFormation"
+    },{
+        "id": "15",
+        "category": "Technical Skills",
+        "subcategory": "Level Three",
+        "title": "Basics of Networking",
+        "description": "DNS, TLS, Routing Tables, OSI Model"
+    },{
+        "id": "16",
+        "category": "Technical Skills",
+        "subcategory": "Level Three",
+        "title": "Continuous Deployment",
+        "description": "Infrastructure, Continuous Deployment vs Continuous Delivery"
+    },{
+        "id": "17",
+        "category": "Technical Skills",
+        "subcategory": "Level Three",
+        "title": "Web Services",
+        "description": "XML, SOAP, JSON, REST"
+    },{
+        "id": "18",
+        "category": "Technical Skills",
+        "subcategory": "Level Four",
+        "title": "Light on the Hill",
+        "description": "Technical Vision, Product Vision, User Experience Vision"
+    },{
+        "id": "19",
+        "category": "Technical Skills",
+        "subcategory": "Level Four",
+        "title": "Sensible Defaults",
+        "description": "Guiding Tools, Processes and Techniques"
+    },{
+        "id": "20",
+        "category": "Technical Skills",
+        "subcategory": "Other",
+        "title": "Functional Composition",
+        "description": "Composing Functions of Other Functions"
+    },{
+        "id": "21",
+        "category": "Technical Skills",
+        "subcategory": "Other",
+        "title": "Relational Databases",
+        "description": "SQL, MySQL, PostgreSQL, Benefits of Relational Databases"
+    },{
+        "id": "22",
+        "category": "Technical Skills",
+        "subcategory": "Other",
+        "title": "Security Principles",
+        "description": "Confidentiality, Integrity, Availability, OWASP Principles"
+    },{
+        "id": "23",
+        "category": "Technical Skills",
+        "subcategory": "Other",
+        "title": "Root Cause Analysis",
+        "description": "5 Whys, Fishbone Diagram"
+    },{
+        "id": "24",
+        "category": "Technical Skills",
+        "subcategory": "Other",
+        "title": "Polyglot Programmer",
+        "description": "Strongly Typed Langauges, Dynamic Languages"
+    },{
+        "id": "25",
+        "category": "Technical Skills",
+        "subcategory": "Other",
+        "title": "Refactoring Principles and Techniques",
+        "description": "TDD Refactoring, Boyscout Rule, Planned Refactoring"
+    },{
+        "id": "26",
+        "category": "Technical Skills",
+        "subcategory": "Other",
+        "title": "Immutability",
+        "description": "Weak vs Strong Immutability, References to Objects, Immutable Variables, Copy-On-Write"
+    },{
+        "id": "27",
+        "category": "Technical Skills",
+        "subcategory": "Other",
+        "title": "Services and Containers",
+        "description": "Docker, Containers, Swarms"
+    },{
+        "id": "28",
+        "category": "Technical Skills",
+        "subcategory": "Other",
+        "title": "Behaviour Driven Development",
+        "description": "Top-Down Verification of Behaviour"
+    },{
+        "id": "29",
+        "category": "Technical Skills",
+        "subcategory": "Other",
+        "title": "Domain Driven Design",
+        "description": "Purpose Alignment Model, Event Storming, Context Maps, Domain Models, Ubiquitous Language"
+    },{
+        "id": "30",
+        "category": "Technical Skills",
+        "subcategory": "Other",
+        "title": "Design Patterns",
+        "description": "Structural Patterns, Creational Patterns, Behavioural Patterns"
+    },{
+        "id": "31",
+        "category": "Technical Skills",
+        "subcategory": "Other",
+        "title": "No-SQL Databases",
+        "description": "Document Store, Key-Value Store, Benefits of No-SQL Databases"
+    },{
+        "id": "32",
+        "category": "General Skills",
+        "subcategory": "Other",
+        "title": "Attending Retros",
+        "description": "Purpose of Retros, Contribution, Facilitation"
+    },{
+        "id": "33",
+        "category": "General Skills",
+        "subcategory": "Other",
+        "title": "Role Empathy",
+        "description": ""
+    },{
+        "id": "34",
+        "category": "General Skills",
+        "subcategory": "Other",
+        "title": "T-Shape Theory",
+        "description": "Capable Of Many Skills, Expert In One Skill"
+    },{
+        "id": "35",
+        "category": "General Skills",
+        "subcategory": "Other",
+        "title": "Giving Feedback",
+        "description": "Giving Constructive Feedback, Getting Constructive Feedback"
+    },{
+        "id": "36",
+        "category": "General Skills",
+        "subcategory": "Other",
+        "title": "Growth Mindset",
+        "description": ""
+    },{
+        "id": "37",
+        "category": "Cross-Functional Skills",
+        "subcategory": "Other",
+        "title": "Metrics Analysis",
+        "description": "Methods, Diagrams, Reports"
+    },{
+        "id": "38",
+        "category": "Cross-Functional Skills",
+        "subcategory": "Other",
+        "title": "Problem Solving",
+        "description": ""
+    },{
+        "id": "39",
+        "category": "Cross-Functional Skills",
+        "subcategory": "Other",
+        "title": "Cross Functional Theory",
+        "description": ""
+    }
+]

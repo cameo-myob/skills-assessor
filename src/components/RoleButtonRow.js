@@ -8,6 +8,7 @@ const RoleButtons = () => {
             <Link to="/protege"><Button type="secondary">Protege Developer</Button></Link>
             <Button type="secondary" onClick={() => {console.log('general')}}>General Developer</Button>
             <Button type="secondary" onClick={() => {console.log('ba')}}>Business Analyst</Button>
+            <Button type="secondary" onClick={() => {console.log('qa')}}>Quality Assurance</Button>
         </div>)
 }
 

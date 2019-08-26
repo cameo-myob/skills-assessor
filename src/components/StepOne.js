@@ -1,7 +1,7 @@
 import React from 'react';
 import { StandardTemplate } from "@myob/myob-widgets";
 
-const Protege = () => {
+const StepOne = () => {
     return(
         <div
         style={{
@@ -17,4 +17,4 @@ const Protege = () => {
     )
 }
 
-export default Protege;
+export default StepOne;

@@ -1,0 +1,317 @@
+{
+    "crossFunctionalSkills": [
+      {
+        "name":"Developer",
+        "conceptAndPractices":[
+          {
+            "name":"Programming Skills",
+            "link":"https://github.com/MYOB-Technology/General_Developer/tree/master/things-we-value/technical/programming"
+          },
+          {
+            "name":"Modelling and Designing",
+            "link":"https://github.com/MYOB-Technology/General_Developer/tree/master/things-we-value/technical/design"
+          },
+          {
+            "name":"Test Driven Development",
+            "link":"https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/testing/tdd.md"
+          },
+          {
+            "name":"Architecture and Platform Knowledge",
+            "link":"https://github.com/MYOB-Technology/General_Developer/tree/master/things-we-value/technical/architecture"
+          }
+        ]
+      },
+      {
+        "name":"Business Analysis",
+        "conceptAndPractices":[
+          {
+            "name":"Requirement Analysis",
+            "link":""
+          },
+          {
+            "name":"Scoping and Prioritisation",
+            "link":""
+          },
+          {
+            "name":"Story Planning",
+            "link":""
+          },
+          {
+            "name":"INVEST",
+            "link":""
+          }
+        ]
+      },
+      {
+        "name":"Dev Ops",
+        "conceptAndPractices":[
+          {
+            "name":"Understanding different Cloud Services",
+            "link":""
+          },
+          {
+            "name":"Building different Build Tools",
+            "link":""
+          },
+          {
+            "name":"Building different Containerised Services",
+            "link":""
+          }
+        ]
+      },
+      {
+        "name":"User Experience Design",
+        "conceptAndPractices":[
+          {
+            "name":"Design Influence",
+            "link":""
+          },
+          {
+            "name":"Prototyping Skills",
+            "link":""
+          },
+          {
+            "name":"Interview Techniques",
+            "link":""
+          },
+          {
+            "name":"Discovery and Validation Techniques",
+            "link":""
+          },
+          {
+            "name":"Usability Testing",
+            "link":""
+          }
+        ]
+      }
+    ],
+    "generalSkills": [
+      {
+        "name": "Learning",
+        "conceptAndPractices": [
+          {
+            "name": "Continuous Personal and Team Improvement",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/learning/README.md"
+          },
+          {
+            "name": "Communities Involvement",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/learning/README.md"
+          }
+        ]
+      },
+      {
+        "name": "Coaching",
+        "conceptAndPractices": [
+          {
+            "name": "Personal Coaching and Career Advisory",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/coaching/README.md"
+          },
+          {
+            "name": "Workshop and Lab Facilitation",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/coaching/README.md"
+          },
+          {
+            "name": "Mentorship Participation",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/coaching/README.md"
+          },
+          {
+            "name": "Outer Team Coaching and Mentorship",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/coaching/README.md"
+          }
+        ]
+      },
+      {
+        "name": "Collaboration",
+        "conceptAndPractices": [
+          {
+            "name": "Emotional Intelligence",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/collaboration/README.md"
+          },
+          {
+            "name": "Team Influence (Culture, Process, Practice)",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/collaboration/README.md"
+          },
+          {
+            "name": "Collaborative Development (Pairing, Mobbing, Three Amigos)",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/collaboration/README.md"
+          },
+          {
+            "name": "Go To Person, Problem Solver, Helps Other Teams",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/collaboration/README.md"
+          },
+          {
+            "name": "Community Involvement, Working Group Involvement",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/collaboration/README.md"
+          },
+          {
+            "name": "Role and Organisation Engagement Breadth",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/collaboration/README.md"
+          },
+          {
+            "name": "Customer and Customer Support Engagement",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/collaboration/README.md"
+          },
+          {
+            "name": "Recruitment Involvement",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/collaboration/README.md"
+          },
+          {
+            "name": "Facilitation Skills",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/collaboration/README.md"
+          },
+          {
+            "name": "Presentation Skills",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/collaboration/README.md"
+          }
+        ]
+      },
+      {
+        "name": "Problem Solving",
+        "conceptAndPractices": [
+          {
+            "name": "Root Cause Analysis",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/problem-solving/README.md"
+          },
+          {
+            "name": "Systems Thinking",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/problem-solving/README.md"
+          },
+          {
+            "name": "Hypothesis-Driven Thinking",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/problem-solving/README.md"
+          },
+          {
+            "name": "Brainstorming Techniques",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/problem-solving/README.md"
+          },
+          {
+            "name": "Divide and Conquer",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/problem-solving/README.md"
+          }
+        ]
+      },
+      {
+        "name": "Leadership",
+        "conceptAndPractices": [
+          {
+            "name": "Contributes To Vision",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/leadership/README.md"
+          },
+          {
+            "name": "Fosters Alignment",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/leadership/README.md"
+          },
+          {
+            "name": "Empowers Others, Delegation Techniques",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/leadership/README.md"
+          },
+          {
+            "name": "Leadership Styles, Servant Leadership",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/general/leadership/README.md"
+          }
+        ]
+      }
+    ],
+    "technicalSkills": [
+      {"name":"Functional Testing",
+        "conceptAndPractices":[
+          {
+            "name": "Exploratory Testing",
+            "link": "https://crossbrowsertesting.com/blog/manual-testing/intro-exploratory-testing/"
+          },
+          {
+            "name": "Test Pyramid",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/cross-functional/quality-assurance/test-pyramid.md"
+          },
+          {
+            "name": "Test Planning and Strategy",
+            "link": "http://www.softwaretestingclass.com/difference-between-test-plan-and-test-strategy/"
+          },
+          {
+            "name":"Impact and Risk Analysis",
+            "link":"https://en.wikipedia.org/wiki/Risk_management"
+          },
+          {
+            "name":"Static Testing",
+            "link":"http://toolsqa.com/software-testing/static-testing/"
+          },
+          {
+            "name":"Test Env and Purposes",
+            "link":"https://en.wikipedia.org/wiki/Test_Environment_Management"
+          },
+          {
+            "name":"Test Method and Heuristics",
+            "link":"http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf"
+          }
+        ]
+      },
+      {"name":"Automation Testing",
+        "conceptAndPractices":[
+          {
+            "name":"General Programming skills",
+            "link":""
+          },
+          {
+            "name": "Frameworks and Modelling",
+            "link": ""
+          },
+          {
+            "name": "Behavior Driven Development",
+            "link": ""
+          },
+          {
+            "name":"API Testing",
+            "link":""
+          },
+          {
+            "name":"Contract Testing",
+            "link":""
+          },
+          {
+            "name":"Test Env and Purposes",
+            "link":""
+          }
+        ]
+      },
+      {
+        "name":"Performance Testing",
+        "conceptAndPractices":[
+          {
+            "name":"Load Testing",
+            "link":"https://en.wikipedia.org/wiki/Load_testing"
+          },
+          {
+            "name":"Stress Testing",
+            "link":""
+          },
+          {
+            "name":"Front End Performance Testing",
+            "link":""
+          },
+          {
+            "name":"Performance Analysis",
+            "link":""
+          },
+          {
+            "name":"Environment & Heuristics",
+            "link":""
+          }
+        ]
+      },
+      {
+        "name":"Security Testing",
+        "conceptAndPractices":[
+          {
+            "name":"OWASP Top 10",
+            "link":"https://en.wikipedia.org/wiki/OWASP"
+          },
+          {
+            "name":"Penetration Testing",
+            "link":""
+          }
+        ]
+      }
+  
+    ]
+  
+  }

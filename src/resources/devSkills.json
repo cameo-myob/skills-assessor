@@ -1,0 +1,546 @@
+[
+  {
+    "id": "1",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Delivery Management",
+    "title": "Technical Debt Mitigation",
+    "description": ""
+  },{
+    "id": "2",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Delivery Management",
+    "title": "Agile Principles and Techniques",
+    "description": ""
+  },{
+    "id": "3",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Delivery Management",
+    "title": "Planning & Estimation Techniques",
+    "description": ""
+  },{
+    "id": "4",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Delivery Management",
+    "title": "Stakeholder Engagement & Management",
+    "description": ""
+  },{
+    "id": "5",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Delivery Management",
+    "title": "Regular Delivery Cadence",
+    "description": ""
+  },{
+    "id": "6",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Quality Assurance",
+    "title": "Test Pyramid",
+    "description": ""
+  },{
+    "id": "7",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Quality Assurance",
+    "title": "Test Planning",
+    "description": ""
+  },{
+    "id": "8",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Quality Assurance",
+    "title": "Exploratory Testing",
+    "description": ""
+  },{
+    "id": "9",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Business Analysis",
+    "title": "Scope Influence",
+    "description": ""
+  },{
+    "id": "10",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Business Analysis",
+    "title": "Story Planning",
+    "description": ""
+  },{
+    "id": "11",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Business Analysis",
+    "title": "Story Articulation",
+    "description": ""
+  },{
+    "id": "12",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Business Analysis",
+    "title": "Customer Engagement",
+    "description": ""
+  },{
+    "id": "13",
+    "category": "Cross-Functional Skills",
+    "subcategory": "User Experience Design",
+    "title": "Design Influence",
+    "description": ""
+  },{
+    "id": "14",
+    "category": "Cross-Functional Skills",
+    "subcategory": "User Experience Design",
+    "title": "Prototyping Skills",
+    "description": ""
+  },{
+    "id": "15",
+    "category": "Cross-Functional Skills",
+    "subcategory": "User Experience Design",
+    "title": "Interview Techniques",
+    "description": ""
+  },{
+    "id": "16",
+    "category": "Cross-Functional Skills",
+    "subcategory": "User Experience Design",
+    "title": "Discovery & Validation Techniques",
+    "description": ""
+  },{
+    "id": "17",
+    "category": "Cross-Functional Skills",
+    "subcategory": "User Experience Design",
+    "title": "",
+    "description": ""
+  },{
+    "id": "18",
+    "category": "General Skills",
+    "subcategory": "Learning",
+    "title": "Continuous Personal & Team Improvement",
+    "description": ""
+  },{
+    "id": "19",
+    "category": "General Skills",
+    "subcategory": "Learning",
+    "title": "Communities Involvement",
+    "description": ""
+  },{
+    "id": "20",
+    "category": "General Skills",
+    "subcategory": "Coaching",
+    "title": "Personal Coaching & Career Advisory",
+    "description": ""
+  },{
+    "id": "21",
+    "category": "General Skills",
+    "subcategory": "Coaching",
+    "title": "Workshop & Lab Facilitation",
+    "description": ""
+  },{
+    "id": "22",
+    "category": "General Skills",
+    "subcategory": "Coaching",
+    "title": "Mentorship Participation",
+    "description": ""
+  },{
+    "id": "23",
+    "category": "General Skills",
+    "subcategory": "Coaching",
+    "title": "Outer Team Coaching & Mentorship",
+    "description": ""
+  },{
+    "id": "24",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Emotional Intelligence",
+    "description": ""
+  },{
+    "id": "25",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Team Influence",
+    "description": "Culture, Process, Practice"
+  },{
+    "id": "26",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Collaborative Development",
+    "description": "Pairing, Mobbing, Three Amigos"
+  },{
+    "id": "27",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Go-To Person, Problem Solver, Helps Other Teams",
+    "description": ""
+  },{
+    "id": "28",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Community Involvement, Working Group Involvement",
+    "description": ""
+  },{
+    "id": "29",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Role & Organisation Engagement Breadth",
+    "description": ""
+  },{
+    "id": "30",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Customer & Customer Support Engagement",
+    "description": ""
+  },{
+    "id": "31",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Recruitment Involvement",
+    "description": ""
+  },{
+    "id": "32",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Facilitation Skills",
+    "description": ""
+  },{
+    "id": "33",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Presentation Skills",
+    "description": ""
+  },{
+    "id": "34",
+    "category": "General Skills",
+    "subcategory": "Problem Solving",
+    "title": "Root Cause Analysis",
+    "description": ""
+  },{
+    "id": "35",
+    "category": "General Skills",
+    "subcategory": "Problem Solving",
+    "title": "Systems Thinking",
+    "description": ""
+  },{
+    "id": "36",
+    "category": "General Skills",
+    "subcategory": "Problem Solving",
+    "title": "Hypothesis-Driven Thinking",
+    "description": ""
+  },{
+    "id": "37",
+    "category": "General Skills",
+    "subcategory": "Problem Solving",
+    "title": "Brainstorming Techniques",
+    "description": ""
+  },{
+    "id": "38",
+    "category": "General Skills",
+    "subcategory": "Problem Solving",
+    "title": "Divide & Conquer",
+    "description": ""
+  },{
+    "id": "39",
+    "category": "General Skills",
+    "subcategory": "Leadership",
+    "title": "Contributes To Vision",
+    "description": ""
+  },{
+    "id": "40",
+    "category": "General Skills",
+    "subcategory": "Leadership",
+    "title": "Fosters Alignment",
+    "description": ""
+  },{
+    "id": "41",
+    "category": "General Skills",
+    "subcategory": "Leadership",
+    "title": "Empowers Others, Delegation Techniques",
+    "description": ""
+  },{
+    "id": "42",
+    "category": "General Skills",
+    "subcategory": "Leadership",
+    "title": "Leadership Styles, Servant Leadership",
+    "description": ""
+  },{
+    "id": "43",
+    "category": "Technical Skills",
+    "subcategory": "Architecture",
+    "title": "Domain Driven Design (DDD)",
+    "description": ""
+  },{
+    "id": "44",
+    "category": "Technical Skills",
+    "subcategory": "Architecture",
+    "title": "Architectural Patterns",
+    "description": "Service Oriented (SOA), Microservices, Asynchronous, Event Sourced, Serverless"
+  },{
+    "id": "45",
+    "category": "Technical Skills",
+    "subcategory": "Architecture",
+    "title": "Hexagonal & Layered Architectures",
+    "description": ""
+  },{
+    "id": "46",
+    "category": "Technical Skills",
+    "subcategory": "Architecture",
+    "title": "Evolutionary Architecture",
+    "description": ""
+  },{
+    "id": "47",
+    "category": "Technical Skills",
+    "subcategory": "Architecture",
+    "title": "Persistence Techniques",
+    "description": "SQL, NoSQL, Distributed, Eventually Consistent"
+  },{
+    "id": "48",
+    "category": "Technical Skills",
+    "subcategory": "Architecture",
+    "title": "CAP Theorem",
+    "description": ""
+  },{
+    "id": "49",
+    "category": "Technical Skills",
+    "subcategory": "Architecture",
+    "title": "Documentation Approaches & C4",
+    "description": ""
+  },{
+    "id": "50",
+    "category": "Technical Skills",
+    "subcategory": "Design",
+    "title": "Domain Driven Design (DDD)",
+    "description": ""
+  },{
+    "id": "51",
+    "category": "Technical Skills",
+    "subcategory": "Design",
+    "title": "Design Patterns",
+    "description": ""
+  },{
+    "id": "52",
+    "category": "Technical Skills",
+    "subcategory": "Design",
+    "title": "SOLID, 4 Rules of Simple Design, Unix Philosophy",
+    "description": ""
+  },{
+    "id": "53",
+    "category": "Technical Skills",
+    "subcategory": "Design",
+    "title": "API Design - REST",
+    "description": ""
+  },{
+    "id": "54",
+    "category": "Technical Skills",
+    "subcategory": "Design",
+    "title": "Test Driven Development (TDD",
+    "description": ""
+  },{
+    "id": "55",
+    "category": "Technical Skills",
+    "subcategory": "Design",
+    "title": "Emergent Design, Essential vs. Accidental Complexity",
+    "description": ""
+  },{
+    "id": "56",
+    "category": "Technical Skills",
+    "subcategory": "Programming",
+    "title": "Full-Stack",
+    "description": ""
+  },{
+    "id": "57",
+    "category": "Technical Skills",
+    "subcategory": "Programming",
+    "title": "Polyglot, Multiple Paradigms",
+    "description": ""
+  },{
+    "id": "58",
+    "category": "Technical Skills",
+    "subcategory": "Programming",
+    "title": "Refactoring Principles & Techniques",
+    "description": ""
+  },{
+    "id": "59",
+    "category": "Technical Skills",
+    "subcategory": "Programming",
+    "title": "Reactive Programming",
+    "description": ""
+  },{
+    "id": "60",
+    "category": "Technical Skills",
+    "subcategory": "Programming",
+    "title": "",
+    "description": ""
+  },
+]
+
+{
+    "technicalSkills": [
+      {
+        "name": "Programming",
+        "conceptAndPractices": [
+          {
+            "name": "Full-Stack",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/programming/README.md"
+          },
+          {
+            "name": "Polyglot, Multiple Paradigms",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/programming/README.md"
+          },
+          {
+            "name": "Refactoring Principles and Techniques",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/programming/README.md"
+          },
+          {
+            "name": "Reactive Programming",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/programming/README.md"
+          },
+          {
+            "name": "Clean Code Concepts, SPOT, YAGNI",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/programming/README.md"
+          },
+          {
+            "name": "Performance Optimisation, Security Techniques",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/programming/README.md"
+          },
+          {
+            "name": "Command Line and Shell Skills",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/programming/README.md"
+          }
+        ]
+      },
+      {
+        "name": "Testing",
+        "conceptAndPractices": [
+          {
+            "name": "Test Driven Development (TDD), Acceptance Test Driven Development (ATDD)",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/testing/README.md"
+          },
+          {
+            "name": "Behaviour Driven Development (BDD)",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/testing/README.md"
+          },
+          {
+            "name": "Test Patterns, Test Doubles",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/testing/README.md"
+          },
+          {
+            "name": "Contract Based Testing",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/testing/README.md"
+          },
+          {
+            "name": "Service Virtualisation",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/testing/README.md"
+          },
+          {
+            "name": "Performance Testing",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/testing/README.md"
+          },
+          {
+            "name": "Security Testing, Pen Testing",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/testing/README.md"
+          }
+        ]
+      },
+      {
+        "name": "Continuous Delivery",
+        "conceptAndPractices": [
+          {
+            "name": "Continuous Delivery Theory, Continuous Deployment",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/continuous-delivery/README.md"
+          },
+          {
+            "name": "Zero Downtime Deployment",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/continuous-delivery/README.md"
+          },
+          {
+            "name": "Canary Releasing",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/continuous-delivery/README.md"
+          }
+        ]
+      },
+      {
+        "name": "Operations",
+        "conceptAndPractices": [
+          {
+            "name": "Service Level Objectives (SLO)",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/operations/README.md"
+          },
+          {
+            "name": "DevOps",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/operations/README.md"
+          },
+          {
+            "name": "12 Factor Principles",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/operations/README.md"
+          },
+          {
+            "name": "Immutable Infrastructure, Infrastructure As Code",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/operations/README.md"
+          },
+          {
+            "name": "Cloud Provider Concepts and Services",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/operations/README.md"
+          },
+          {
+            "name": "Docker Clustering and Containers",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/operations/README.md"
+          },
+          {
+            "name": "Monitoring, Alerting, Dashboards, MTTF, MTBF",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/operations/README.md"
+          },
+          {
+            "name": "Backup and Restoration",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/operations/README.md"
+          },
+          {
+            "name": "File System Management",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/operations/README.md"
+          }
+        ]
+      },
+      {
+        "name": "Security",
+        "conceptAndPractices": [
+          {
+            "name": "Security Threat Modelling, Vulnerability and Risk Assessment",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/security/README.md"
+          },
+          {
+            "name": "AuthN and AuthZ",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/security/README.md"
+          },
+          {
+            "name": "Code Analysis Techniques (SAST, DAST)",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/security/README.md"
+          },
+          {
+            "name": "OWASP Vulnerabilities, Tooling",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/security/README.md"
+          },
+          {
+            "name": "SSL and TLS",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/security/README.md"
+          },
+          {
+            "name": "Encryption Techniques",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/security/README.md"
+          }
+        ]
+      },
+      {
+        "name": "Networking",
+        "conceptAndPractices": [
+          {
+            "name": "Private & Public Networks, VPN & VPC",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/networking/README.md"
+          },
+          {
+            "name": "Load Balancing and Routing",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/networking/README.md"
+          },
+          {
+            "name": "Firewalls",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/networking/README.md"
+          },
+          {
+            "name": "HTTP, TCP/IP",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/networking/README.md"
+          },
+          {
+            "name": "OSI Layers",
+            "link": "https://github.com/MYOB-Technology/General_Developer/blob/master/things-we-value/technical/networking/README.md"
+          }
+        ]
+      }
+    ]
+  }

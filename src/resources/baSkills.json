@@ -1,0 +1,424 @@
+[
+  {
+    "id": "1",
+    "category": "Cross-Functional Skills",
+    "subcategory": "User Experience Design",
+    "title": "Design Influence",
+    "description": ""
+  },{
+    "id": "2",
+    "category": "Cross-Functional Skills",
+    "subcategory": "User Experience Design",
+    "title": "Prototyping Skills",
+    "description": ""
+  },{
+    "id": "3",
+    "category": "Cross-Functional Skills",
+    "subcategory": "User Experience Design",
+    "title": "Interview Techniques",
+    "description": ""
+  },{
+    "id": "4",
+    "category": "Cross-Functional Skills",
+    "subcategory": "User Experience Design",
+    "title": "Discovery & Validation Techniques",
+    "description": ""
+  },{
+    "id": "5",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Quality Assurance",
+    "title": "Test Pyramid",
+    "description": ""
+  },{
+    "id": "6",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Quality Assurance",
+    "title": "Test Planning",
+    "description": ""
+  },{
+    "id": "7",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Quality Assurance",
+    "title": "Exploratory Testing",
+    "description": ""
+  },{
+    "id": "8",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Delivery",
+    "title": "Agile Principles & Techniques",
+    "description": "Including Extreme Programming (XP)"
+  },{
+    "id": "9",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Delivery",
+    "title": "Planning & Estimation Techniques",
+    "description": ""
+  },{
+    "id": "10",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Delivery",
+    "title": "Stakeholder Engagement & Management",
+    "description": ""
+  },{
+    "id": "11",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Delivery",
+    "title": "Technical Debt Mitigation",
+    "description": ""
+  },{
+    "id": "12",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Delivery",
+    "title": "Regular Delivery Cadence",
+    "description": ""
+  },{
+    "id": "13",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Product Ownership",
+    "title": "Undertstand Business Drivers",
+    "description": ""
+  },{
+    "id": "14",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Product Ownership",
+    "title": "Cost Of Delay",
+    "description": ""
+  },{
+    "id": "15",
+    "category": "Cross-Functional Skills",
+    "subcategory": "Product Ownership",
+    "title": "Product Roadmapping",
+    "description": ""
+  },{
+    "id": "16",
+    "category": "General Skills",
+    "subcategory": "Continuous Learning",
+    "title": "Continuous Personal & Team Improvement",
+    "description": ""
+  },{
+    "id": "17",
+    "category": "General Skills",
+    "subcategory": "Continuous Learning",
+    "title": "Communities Involvement",
+    "description": ""
+  },{
+    "id": "18",
+    "category": "General Skills",
+    "subcategory": "Coaching",
+    "title": "Mentorship Participation",
+    "description": ""
+  },{
+    "id": "19",
+    "category": "General Skills",
+    "subcategory": "Coaching",
+    "title": "Personal Coaching and Career Advisory",
+    "description": ""
+  },{
+    "id": "20",
+    "category": "General Skills",
+    "subcategory": "Coaching",
+    "title": "Outer Team Coaching & Mentorship",
+    "description": ""
+  },{
+    "id": "21",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Emotional Intelligence",
+    "description": ""
+  },{
+    "id": "22",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Team Influence & Persuasiveness",
+    "description": "Culture, Process, Practice"
+  },{
+    "id": "23",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Collaborative Development",
+    "description": "Pairing, Mobbing, Three Amigos"
+  },{
+    "id": "24",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Role & Organisation Engagement Breadth",
+    "description": ""
+  },{
+    "id": "25",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Community Involvement, Working Group Involvememnt",
+    "description": ""
+  },{
+    "id": "26",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Go-To Person, Problem Solver, Helps Other Teams",
+    "description": ""
+  },{
+    "id": "27",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Customer & Customer Support Engagement",
+    "description": ""
+  },{
+    "id": "28",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Recruitment Involvement",
+    "description": ""
+  },{
+    "id": "29",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Presentation Skills",
+    "description": ""
+  },{
+    "id": "30",
+    "category": "General Skills",
+    "subcategory": "Collaboration",
+    "title": "Facilitation Skills",
+    "description": ""
+  },{
+    "id": "31",
+    "category": "General Skills",
+    "subcategory": "Leadership / Influence",
+    "title": "Contributes To Vision",
+    "description": ""
+  },{
+    "id": "32",
+    "category": "General Skills",
+    "subcategory": "Leadership / Influence",
+    "title": "Influence stuff",
+    "description": "WAT IS THIS"
+  },{
+    "id": "33",
+    "category": "General Skills",
+    "subcategory": "Leadership / Influence",
+    "title": "Fosters Alignment",
+    "description": ""
+  },{
+    "id": "34",
+    "category": "General Skills",
+    "subcategory": "Leadership / Influence",
+    "title": "Leadership Styles, Servant Leadership",
+    "description": ""
+  },{
+    "id": "35",
+    "category": "General Skills",
+    "subcategory": "Leadership / Influence",
+    "title": "Empowers Others, Delegation Techniques",
+    "description": ""
+  },{
+    "id": "36",
+    "category": "General Skills",
+    "subcategory": "Leadership / Influence",
+    "title": "Decision Making Styles & Techniques",
+    "description": ""
+  },{
+    "id": "37",
+    "category": "Technical Skills",
+    "subcategory": "Analytic Ability",
+    "title": "Root Cause Analysis",
+    "description": ""
+  },{
+    "id": "38",
+    "category": "Technical Skills",
+    "subcategory": "Analytic Ability",
+    "title": "Systems Thinking",
+    "description": ""
+  },{
+    "id": "39",
+    "category": "Technical Skills",
+    "subcategory": "Analytic Ability",
+    "title": "Hypothesis-Driven Thinking",
+    "description": ""
+  },{
+    "id": "40",
+    "category": "Technical Skills",
+    "subcategory": "Analytic Ability",
+    "title": "Problem Breakdown",
+    "description": ""
+  },{
+    "id": "41",
+    "category": "Technical Skills",
+    "subcategory": "Analytic Ability",
+    "title": "Just-In-Time Analysis",
+    "description": ""
+  },{
+    "id": "42",
+    "category": "Technical Skills",
+    "subcategory": "Analytic Ability",
+    "title": "Scope Management",
+    "description": ""
+  },{
+    "id": "43",
+    "category": "Technical Skills",
+    "subcategory": "Analytic Ability",
+    "title": "Impact Mapping",
+    "description": ""
+  },{
+    "id": "44",
+    "category": "Technical Skills",
+    "subcategory": "Analytic Ability",
+    "title": "Structured Thinking / Logical Thinking",
+    "description": ""
+  },{
+    "id": "45",
+    "category": "Technical Skills",
+    "subcategory": "Analytic Ability",
+    "title": "Data Analysis",
+    "description": ""
+  },{
+    "id": "46",
+    "category": "Technical Skills",
+    "subcategory": "Analytic Ability",
+    "title": "Creative Thinking",
+    "description": ""
+  },{
+    "id": "47",
+    "category": "Technical Skills",
+    "subcategory": "Analytic Ability",
+    "title": "User Journey Mapping",
+    "description": ""
+  },{
+    "id": "48",
+    "category": "Technical Skills",
+    "subcategory": "Analytic Ability",
+    "title": "Behaviour Driven Development",
+    "description": ""
+  },{
+    "id": "49",
+    "category": "Technical Skills",
+    "subcategory": "Facilitation",
+    "title": "Presentation Skills",
+    "description": ""
+  },
+  {
+    "id": "50",
+    "category": "Technical Skills",
+    "subcategory": "Facilitation",
+    "title": "Meeting Management",
+    "description": ""
+  },{
+    "id": "51",
+    "category": "Technical Skills",
+    "subcategory": "Facilitation",
+    "title": "Workshop Facilitation",
+    "description": ""
+  },{
+    "id": "52",
+    "category": "Technical Skills",
+    "subcategory": "Facilitation",
+    "title": "Workshop Facilitation",
+    "description": ""
+  },{
+    "id": "53",
+    "category": "Technical Skills",
+    "subcategory": "Facilitation",
+    "title": "Workshop Planning & Design",
+    "description": ""
+  },{
+    "id": "54",
+    "category": "Technical Skills",
+    "subcategory": "Facilitation",
+    "title": "Mediation & Facilitating Conflict",
+    "description": ""
+  },{
+    "id": "55",
+    "category": "Technical Skills",
+    "subcategory": "Facilitation",
+    "title": "Prioritisation",
+    "description": ""
+  },{
+    "id": "56",
+    "category": "Technical Skills",
+    "subcategory": "Facilitation",
+    "title": "Brainstorming Techniques",
+    "description": ""
+  },{
+    "id": "57",
+    "category": "Technical Skills",
+    "subcategory": "Communication",
+    "title": "Story Writing",
+    "description": ""
+  },{
+    "id": "58",
+    "category": "Technical Skills",
+    "subcategory": "Communication",
+    "title": "Stakeholder Management",
+    "description": ""
+  },{
+    "id": "59",
+    "category": "Technical Skills",
+    "subcategory": "Communication",
+    "title": "Visual Communication",
+    "description": ""
+  },{
+    "id": "60",
+    "category": "Technical Skills",
+    "subcategory": "Communication",
+    "title": "Story Mapping",
+    "description": ""
+  },{
+    "id": "61",
+    "category": "Technical Skills",
+    "subcategory": "Communication",
+    "title": "Writing",
+    "description": ""
+  },{
+    "id": "62",
+    "category": "Technical Skills",
+    "subcategory": "Communication",
+    "title": "Data Representation",
+    "description": ""
+  },{
+    "id": "63",
+    "category": "Technical Skills",
+    "subcategory": "Business & Domain Expertise",
+    "title": "System Architecture / Design",
+    "description": ""
+  },{
+    "id": "64",
+    "category": "Technical Skills",
+    "subcategory": "Business & Domain Expertise",
+    "title": "Industry Knowledge",
+    "description": ""
+  },{
+    "id": "65",
+    "category": "Technical Skills",
+    "subcategory": "Business & Domain Expertise",
+    "title": "User Understanding",
+    "description": ""
+  },{
+    "id": "66",
+    "category": "Technical Skills",
+    "subcategory": "Business & Domain Expertise",
+    "title": "Requirements Gathering",
+    "description": ""
+  },{
+    "id": "67",
+    "category": "Technical Skills",
+    "subcategory": "Business & Domain Expertise",
+    "title": "Cost-Benefit Analysis",
+    "description": ""
+  },{
+    "id": "68",
+    "category": "Technical Skills",
+    "subcategory": "Business & Domain Expertise",
+    "title": "Commercial Acumen",
+    "description": ""
+  },{
+    "id": "69",
+    "category": "Technical Skills",
+    "subcategory": "Business & Domain Expertise",
+    "title": "Risk Analysis",
+    "description": ""
+  },{
+    "id": "70",
+    "category": "Technical Skills",
+    "subcategory": "Business & Domain Expertise",
+    "title": "Value Based Decision Making",
+    "description": ""
+  }
+]
